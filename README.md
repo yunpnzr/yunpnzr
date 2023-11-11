@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on .. you think?<br>
+👯 I’m looking to collaborate on android development (Jetpack Compose)<br>
+<!--🤝 I’m looking for help with <br>--> 
+🌱 I’m currently learning android development<br>
+💬 Ask me about .. no, you can't ask me :D<br>
+⚡ Fun fact? I haven't
 
 
 ## 🌐 Socials:
