@@ -16,7 +16,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunpnzr&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yunpnzr&theme=tokyonight&utcOffset=8)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yunpnzr&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunpnzr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abc&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yunpnzr&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
