@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on android development (Jetpack Compose)<br> <!--🤝 I’m looking for help with <br>--> 
 🌱 I’m currently learning android development<br>
 💬 Ask me about .. no, you can't ask me :D<br>
-⚡ Fun fact? I don't have
+⚡ Fun fact? I don't know
 
 
 ## 🌐 Socials:
