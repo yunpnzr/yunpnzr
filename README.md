@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on .. <br>
+🔭 I’m currently working on... I haven't a job <br>
 👯 I’m looking to collaborate on... <!--android development (Jetpack Compose)--><br> <!--🤝 I’m looking for help with <br>--> 
 🌱 I’m currently learning android development<br>
 💬 Ask me about .. no, you can't ask me :D<br>
